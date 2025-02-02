@@ -1,6 +1,6 @@
 # Hi, I'm Lennart Schaeffer! 👋
 
-## 🚀 About Me
+## 💻 About Me
 I'm a **Second Year Computer Science student at Dalhousie University** with a passion for **full-stack development**. I love learning about new technologies and building apps related to my interests.
 
 ## 🛠️ Tech Stack
