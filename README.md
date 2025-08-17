@@ -1,7 +1,7 @@
 # Hi, I'm Lennart Schaeffer! 👋
 
 ## 💻 About Me
-I'm a **Third Year Computer Science student at Dalhousie University** with a strong interest in **Full-stack Software Development, AI/ML, and Cloud Technologies**. I love learning new things and building apps related to my interests.
+I'm a **Third Year Computer Science student at Dalhousie University** with a strong interest in **Full-stack Software Development, AI/ML, and Cloud Technologies**. I love learning new things and building apps to solve problems, or anything related to my interests.
 
 ## 🛠️ Tech Stack
 
