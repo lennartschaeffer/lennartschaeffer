@@ -1,7 +1,7 @@
 # Hi, I'm Lennart Schaeffer! 👋
 
 ## 💻 About Me
-I'm a **Second Year Computer Science student at Dalhousie University** with a passion for **full-stack development**. I love learning about new technologies and building apps related to my interests.
+I'm a **Third Year Computer Science student at Dalhousie University** with a strong interest in **Full-stack Software Development, AI/ML, and Cloud Technologies**. I love learning new things and building apps related to my interests.
 
 ## 🛠️ Tech Stack
 
@@ -17,6 +17,7 @@ I'm a **Second Year Computer Science student at Dalhousie University** with a pa
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ## 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/lennartschaeffer](https://www.linkedin.com/in/lennart-schaeffer-929b12247/)
